@@ -1,5 +1,3 @@
-### Hi, I'm Dimon 👋
-
 I design products and build the systems that build them. Started in design, learned frontend, now most of my work is design systems, motion engines, and the environment where AI agents write the code.
 
 - 🧩 Void Energy — an atmosphere-aware design system: runtime theming, native-first UI, Svelte and Tailwind layers
